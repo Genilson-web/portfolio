@@ -2,7 +2,7 @@
 Genilson Ribeiro Portfólio
 </h1>
 
-- **[Link do portfólio](https://genilson-web.github.io/portfolio/)**
+- **[Link do portfólio](https://genilsonweb.com/)**
 
 ## Sobre
 
